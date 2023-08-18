@@ -10,6 +10,11 @@ h2{
     size: 50px;
     text-size-adjust: 50px;
 }
+h4{
+    color: aqua;
+    text-align: left;
+    size: 70px;
+}
 p{
     animation: both;
     animation-duration: 0.55;
@@ -18,5 +23,5 @@ p{
     color: rgb(202, 101, 34);
 }
 body{
-    background-color: rgb(65, 75, 209);
+    background-color: rgb(1, 2, 15);
 }
