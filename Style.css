@@ -5,10 +5,17 @@ h1{
     size: 100px;
 }
 h2{
-    color: rgb(94, 255, 0);
+    color: rgb(185, 59, 0);
     text-align: center;
     size: 50px;
     text-size-adjust: 50px;
+}
+p{
+    animation: both;
+    animation-duration: 0.55;
+    size: 40px;
+    text-align: right;
+    color: rgb(202, 101, 34);
 }
 body{
     background-color: rgb(65, 75, 209);
