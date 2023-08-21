@@ -20,6 +20,11 @@ h3{
     text-align: center;
     size: 500px;
 }
+h5{
+    color: brown;
+    text-align: start;
+
+}
 p{
     animation: both;
     animation-duration: 0.55;
